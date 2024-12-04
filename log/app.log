@@ -1,0 +1,268 @@
+2024-12-04 15:24:48,080 - INFO - Starting Flask server on port 5000
+2024-12-04 15:24:48,083 - WARNING -  * Debugger is active!
+2024-12-04 15:24:48,083 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:24:50,568 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:24:51,476 - INFO - Starting Flask server on port 5000
+2024-12-04 15:24:51,479 - WARNING -  * Debugger is active!
+2024-12-04 15:24:51,479 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:24:58,513 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:24:59,426 - WARNING -  * Debugger is active!
+2024-12-04 15:24:59,427 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:25:00,774 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:26:24,332 - INFO - API logger started
+2024-12-04 15:26:24,334 - INFO - Starting Flask server on port 5000
+2024-12-04 15:26:24,337 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.84:5000
+2024-12-04 15:26:24,337 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-04 15:26:24,338 - INFO -  * Restarting with stat
+2024-12-04 15:26:25,106 - INFO - API logger started
+2024-12-04 15:26:25,107 - INFO - Starting Flask server on port 5000
+2024-12-04 15:26:25,110 - WARNING -  * Debugger is active!
+2024-12-04 15:26:25,110 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:26:33,270 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:26:33,418 - INFO -  * Restarting with stat
+2024-12-04 15:26:34,194 - INFO - Starting Flask server on port 5000
+2024-12-04 15:26:34,197 - WARNING -  * Debugger is active!
+2024-12-04 15:26:34,197 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:26:57,143 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:26:57,297 - INFO -  * Restarting with stat
+2024-12-04 15:27:21,472 - INFO - Starting Flask server on port 5000
+2024-12-04 15:27:21,476 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.84:5000
+2024-12-04 15:27:21,476 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-04 15:27:21,476 - INFO -  * Restarting with stat
+2024-12-04 15:27:22,240 - INFO - Starting Flask server on port 5000
+2024-12-04 15:27:22,243 - WARNING -  * Debugger is active!
+2024-12-04 15:27:22,243 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:27:33,623 - DEBUG - Received data: {'key1': 'value1', 'key2': 'value2'}
+2024-12-04 15:27:33,623 - INFO - 192.168.1.178 - - [04/Dec/2024 15:27:33] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:27:48,600 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:27:48,746 - INFO -  * Restarting with stat
+2024-12-04 15:27:49,518 - INFO - Starting Flask server on port 5000
+2024-12-04 15:27:49,521 - WARNING -  * Debugger is active!
+2024-12-04 15:27:49,522 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:27:56,543 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:27:56,690 - INFO -  * Restarting with stat
+2024-12-04 15:27:57,453 - INFO - Starting Flask server on port 5000
+2024-12-04 15:27:57,456 - WARNING -  * Debugger is active!
+2024-12-04 15:27:57,456 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:28:04,490 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:28:04,633 - INFO -  * Restarting with stat
+2024-12-04 15:28:05,397 - INFO - Starting Flask server on port 5000
+2024-12-04 15:28:05,400 - WARNING -  * Debugger is active!
+2024-12-04 15:28:05,400 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:28:08,964 - INFO - Received data: {'key1': 'value1', 'key2': 'value2'}
+2024-12-04 15:28:08,965 - INFO - 192.168.1.178 - - [04/Dec/2024 15:28:08] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:28:46,527 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:28:46,671 - INFO -  * Restarting with stat
+2024-12-04 15:28:47,430 - INFO - Starting Flask server on port 5000
+2024-12-04 15:28:47,432 - WARNING -  * Debugger is active!
+2024-12-04 15:28:47,433 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:28:49,367 - INFO - 192.168.1.178 - - [04/Dec/2024 15:28:49] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:29:00,140 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:29:00,283 - INFO -  * Restarting with stat
+2024-12-04 15:29:01,039 - INFO - Starting Flask server on port 5000
+2024-12-04 15:29:01,041 - WARNING -  * Debugger is active!
+2024-12-04 15:29:01,042 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:29:04,675 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:29:04,817 - INFO -  * Restarting with stat
+2024-12-04 15:29:05,583 - INFO - Starting Flask server on port 5000
+2024-12-04 15:29:05,586 - WARNING -  * Debugger is active!
+2024-12-04 15:29:05,586 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:29:33,467 - INFO - 192.168.1.178 - - [04/Dec/2024 15:29:33] "[31m[1mPOST /api/text HTTP/1.1[0m" 400 -
+2024-12-04 15:29:48,639 - INFO - Received data: hows the weather
+2024-12-04 15:29:48,639 - INFO - 192.168.1.178 - - [04/Dec/2024 15:29:48] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:30:08,844 - INFO - 192.168.1.178 - - [04/Dec/2024 15:30:08] "[31m[1mPOST /api/text HTTP/1.1[0m" 400 -
+2024-12-04 15:30:15,716 - INFO - Received data: hows the weather
+2024-12-04 15:30:15,716 - INFO - 192.168.1.178 - - [04/Dec/2024 15:30:15] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:31:04,935 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:31:05,080 - INFO -  * Restarting with stat
+2024-12-04 15:31:05,926 - INFO - Starting Flask server on port 5000
+2024-12-04 15:31:05,929 - WARNING -  * Debugger is active!
+2024-12-04 15:31:05,929 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:31:15,254 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:31:15,414 - INFO -  * Restarting with stat
+2024-12-04 15:31:16,255 - INFO - Starting Flask server on port 5000
+2024-12-04 15:31:16,258 - WARNING -  * Debugger is active!
+2024-12-04 15:31:16,258 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:31:21,015 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:31:21,184 - INFO -  * Restarting with stat
+2024-12-04 15:31:22,046 - INFO - Starting Flask server on port 5000
+2024-12-04 15:31:22,050 - WARNING -  * Debugger is active!
+2024-12-04 15:31:22,050 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:34:07,834 - INFO - 192.168.1.178 - - [04/Dec/2024 15:34:07] "[35m[1mPOST /api/text HTTP/1.1[0m" 500 -
+2024-12-04 15:34:13,297 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:34:13,456 - INFO -  * Restarting with stat
+2024-12-04 15:34:14,305 - INFO - Starting Flask server on port 5000
+2024-12-04 15:34:14,308 - WARNING -  * Debugger is active!
+2024-12-04 15:34:14,308 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:34:14,437 - INFO - Received data: hows the weather
+2024-12-04 15:34:14,437 - INFO - 192.168.1.178 - - [04/Dec/2024 15:34:14] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:35:12,353 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:35:12,519 - INFO -  * Restarting with stat
+2024-12-04 15:35:13,367 - INFO - Starting Flask server on port 5000
+2024-12-04 15:35:13,370 - WARNING -  * Debugger is active!
+2024-12-04 15:35:13,370 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:35:54,444 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:35:54,603 - INFO -  * Restarting with stat
+2024-12-04 15:35:55,431 - INFO - Starting Flask server on port 5000
+2024-12-04 15:35:55,434 - WARNING -  * Debugger is active!
+2024-12-04 15:35:55,435 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:36:22,897 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:36:23,063 - INFO -  * Restarting with stat
+2024-12-04 15:36:23,896 - INFO - Starting Flask server on port 5000
+2024-12-04 15:36:23,899 - WARNING -  * Debugger is active!
+2024-12-04 15:36:23,899 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:36:33,219 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:36:33,381 - INFO -  * Restarting with stat
+2024-12-04 15:36:34,233 - INFO - Starting Flask server on port 5000
+2024-12-04 15:36:34,236 - WARNING -  * Debugger is active!
+2024-12-04 15:36:34,237 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:37:22,101 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:37:22,295 - INFO -  * Restarting with stat
+2024-12-04 15:37:23,130 - INFO - Starting Flask server on port 5000
+2024-12-04 15:37:23,133 - WARNING -  * Debugger is active!
+2024-12-04 15:37:23,133 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:37:42,652 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:37:42,808 - INFO -  * Restarting with stat
+2024-12-04 15:37:43,638 - INFO - Starting Flask server on port 5000
+2024-12-04 15:37:43,642 - WARNING -  * Debugger is active!
+2024-12-04 15:37:43,642 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:37:49,553 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:37:49,721 - INFO -  * Restarting with stat
+2024-12-04 15:37:50,582 - INFO - Starting Flask server on port 5000
+2024-12-04 15:37:50,585 - WARNING -  * Debugger is active!
+2024-12-04 15:37:50,585 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:37:59,887 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:38:00,046 - INFO -  * Restarting with stat
+2024-12-04 15:38:00,890 - INFO - Starting Flask server on port 5000
+2024-12-04 15:38:00,893 - WARNING -  * Debugger is active!
+2024-12-04 15:38:00,894 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:38:07,951 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:38:08,109 - INFO -  * Restarting with stat
+2024-12-04 15:38:08,959 - INFO - Starting Flask server on port 5000
+2024-12-04 15:38:08,962 - WARNING -  * Debugger is active!
+2024-12-04 15:38:08,962 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:38:29,666 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:38:29,832 - INFO -  * Restarting with stat
+2024-12-04 15:38:30,679 - INFO - Starting Flask server on port 5000
+2024-12-04 15:38:30,682 - WARNING -  * Debugger is active!
+2024-12-04 15:38:30,682 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:38:35,602 - INFO - Received data: hows the weather, prompt: , history: True
+2024-12-04 15:38:35,604 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2024-12-04 15:38:35,604 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7fca22df01d0>
+2024-12-04 15:38:35,604 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-04 15:38:35,605 - DEBUG - send_request_headers.complete
+2024-12-04 15:38:35,605 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-04 15:38:35,605 - DEBUG - send_request_body.complete
+2024-12-04 15:38:35,605 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-04 15:38:37,856 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 04 Dec 2024 20:38:37 GMT'), (b'Content-Length', b'865')])
+2024-12-04 15:38:37,856 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-12-04 15:38:37,856 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-04 15:38:37,856 - DEBUG - receive_response_body.complete
+2024-12-04 15:38:37,856 - DEBUG - response_closed.started
+2024-12-04 15:38:37,856 - DEBUG - response_closed.complete
+2024-12-04 15:38:37,857 - INFO - 192.168.1.178 - - [04/Dec/2024 15:38:37] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:38:53,609 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:38:53,781 - INFO -  * Restarting with stat
+2024-12-04 15:38:54,626 - INFO - Starting Flask server on port 5000
+2024-12-04 15:38:54,629 - WARNING -  * Debugger is active!
+2024-12-04 15:38:54,630 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:38:54,757 - INFO - Received data: hows the weather, prompt: , history: True
+2024-12-04 15:38:54,757 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2024-12-04 15:38:54,757 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f6f6a967a70>
+2024-12-04 15:38:54,757 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-04 15:38:54,758 - DEBUG - send_request_headers.complete
+2024-12-04 15:38:54,758 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-04 15:38:54,758 - DEBUG - send_request_body.complete
+2024-12-04 15:38:54,758 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-04 15:38:56,602 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 04 Dec 2024 20:38:56 GMT'), (b'Content-Length', b'1069')])
+2024-12-04 15:38:56,602 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-12-04 15:38:56,603 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-04 15:38:56,603 - DEBUG - receive_response_body.complete
+2024-12-04 15:38:56,603 - DEBUG - response_closed.started
+2024-12-04 15:38:56,603 - DEBUG - response_closed.complete
+2024-12-04 15:38:56,603 - INFO - 192.168.1.178 - - [04/Dec/2024 15:38:56] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:39:19,391 - INFO - Received data: hows the weather, prompt: you are micky mouse, history: True
+2024-12-04 15:39:19,392 - DEBUG - close.started
+2024-12-04 15:39:19,392 - DEBUG - close.complete
+2024-12-04 15:39:19,392 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2024-12-04 15:39:19,392 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f6f6a3f53a0>
+2024-12-04 15:39:19,393 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-04 15:39:19,393 - DEBUG - send_request_headers.complete
+2024-12-04 15:39:19,393 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-04 15:39:19,393 - DEBUG - send_request_body.complete
+2024-12-04 15:39:19,393 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-04 15:39:20,336 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 04 Dec 2024 20:39:20 GMT'), (b'Content-Length', b'550')])
+2024-12-04 15:39:20,337 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-12-04 15:39:20,337 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-04 15:39:20,337 - DEBUG - receive_response_body.complete
+2024-12-04 15:39:20,337 - DEBUG - response_closed.started
+2024-12-04 15:39:20,337 - DEBUG - response_closed.complete
+2024-12-04 15:39:20,337 - INFO - 192.168.1.178 - - [04/Dec/2024 15:39:20] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:39:43,668 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:39:43,832 - INFO -  * Restarting with stat
+2024-12-04 15:39:44,683 - INFO - Starting Flask server on port 5000
+2024-12-04 15:39:44,686 - WARNING -  * Debugger is active!
+2024-12-04 15:39:44,686 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:39:46,074 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:39:46,250 - INFO -  * Restarting with stat
+2024-12-04 15:39:47,103 - INFO - Starting Flask server on port 5000
+2024-12-04 15:39:47,106 - WARNING -  * Debugger is active!
+2024-12-04 15:39:47,106 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:39:53,333 - INFO - Received data: hows the weather, prompt: you are micky mouse
+2024-12-04 15:39:53,333 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2024-12-04 15:39:53,334 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f7479e18710>
+2024-12-04 15:39:53,334 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-04 15:39:53,334 - DEBUG - send_request_headers.complete
+2024-12-04 15:39:53,334 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-04 15:39:53,334 - DEBUG - send_request_body.complete
+2024-12-04 15:39:53,334 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-04 15:39:54,230 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Wed, 04 Dec 2024 20:39:54 GMT'), (b'Content-Length', b'529')])
+2024-12-04 15:39:54,230 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-12-04 15:39:54,230 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-04 15:39:54,230 - DEBUG - receive_response_body.complete
+2024-12-04 15:39:54,230 - DEBUG - response_closed.started
+2024-12-04 15:39:54,230 - DEBUG - response_closed.complete
+2024-12-04 15:39:54,231 - INFO - 192.168.1.178 - - [04/Dec/2024 15:39:54] "POST /api/text HTTP/1.1" 200 -
+2024-12-04 15:40:03,147 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:40:03,306 - INFO -  * Restarting with stat
+2024-12-04 15:40:04,157 - INFO - Starting Flask server on port 5000
+2024-12-04 15:40:04,160 - WARNING -  * Debugger is active!
+2024-12-04 15:40:04,160 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:42:36,698 - INFO - 192.168.1.178 - - [04/Dec/2024 15:42:36] "POST /api/audio HTTP/1.1" 200 -
+2024-12-04 15:43:38,922 - INFO - 192.168.1.178 - - [04/Dec/2024 15:43:38] "POST /api/audio HTTP/1.1" 200 -
+2024-12-04 15:44:44,262 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:44:44,426 - INFO -  * Restarting with stat
+2024-12-04 15:44:45,275 - INFO - Starting Flask server on port 5000
+2024-12-04 15:44:45,278 - WARNING -  * Debugger is active!
+2024-12-04 15:44:45,278 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:44:53,425 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:44:53,595 - INFO -  * Restarting with stat
+2024-12-04 15:44:54,439 - INFO - Starting Flask server on port 5000
+2024-12-04 15:44:54,442 - WARNING -  * Debugger is active!
+2024-12-04 15:44:54,442 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:45:00,546 - INFO - 192.168.1.178 - - [04/Dec/2024 15:45:00] "[35m[1mPOST /api/audio HTTP/1.1[0m" 500 -
+2024-12-04 15:45:10,561 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:45:10,730 - INFO -  * Restarting with stat
+2024-12-04 15:45:11,575 - INFO - Starting Flask server on port 5000
+2024-12-04 15:45:11,578 - WARNING -  * Debugger is active!
+2024-12-04 15:45:11,578 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:45:18,630 - INFO -  * Detected change in '/mnt/Fedora2/code/python/AIHUB/app.py', reloading
+2024-12-04 15:45:18,794 - INFO -  * Restarting with stat
+2024-12-04 15:45:19,650 - INFO - Starting Flask server on port 5000
+2024-12-04 15:45:19,653 - WARNING -  * Debugger is active!
+2024-12-04 15:45:19,653 - INFO -  * Debugger PIN: 996-124-980
+2024-12-04 15:45:22,915 - INFO - 192.168.1.178 - - [04/Dec/2024 15:45:22] "POST /api/audio HTTP/1.1" 200 -
+2024-12-04 15:46:19,073 - INFO - Received file: audio_segment_1.wav
+2024-12-04 15:46:24,497 - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2024-12-04 15:46:24,576 - DEBUG - Creating converter from 7 to 5
+2024-12-04 15:46:24,576 - DEBUG - Creating converter from 5 to 7
+2024-12-04 15:46:24,576 - DEBUG - Creating converter from 7 to 5
+2024-12-04 15:46:24,576 - DEBUG - Creating converter from 5 to 7
+2024-12-04 15:46:32,916 - INFO - Response WHISPER:  My mission is simple, to make you money. I'm here to level the playing field for all investors. There's always a boom working somewhere, and I promise to help you find it. Mad Money starts now. Hey, I'm Kramer. Welcome to Mad Money. Welcome to Kramer. I got to be with my friends. I'm just trying to make you a little money. My job is not just to entertain, but to educate you about things like today. So call me, 1-800-743-CMBC. Tweet me at Jim Kramer. The other day, we got some potentially devastating news that the U.S. was putting on new sanctions to the Chinese when it came to high-tech goods. Then, almost immediately, the Chinese fired back with what's being called a mineral ban, blocking the U.S. from getting key metals like gallium and germanium that we need for electric vehicle batteries, semiconductors. Holy cow, are things finally spinning out of control? I heard it all day nonstop that they are. But if so, how is it possible that the market just yawns, a Dow dipping 76 points, SMB inching up 0.05 percent, and then NASDAQ epicenter advancing 0.4 percent to a new record high? How can this be? How can the market be so wrong about this drastic trade war between the world's first and second largest economies? Or maybe, just maybe, does the market know something we don't? As we get closer to the change in Washington, I think we have to start thinking on a dual track toward our nemesis, the PRC. One track punitive, and the other track gloriously benign, at least if you own stocks. First, let's just point out that the sanctions announced by our government yesterday were unexpected, even if you misledly heard that they weren't. When I first heard about the scope of them, I gulped as my chapel just owns them.
+2024-12-04 15:46:32,918 - INFO - 192.168.1.178 - - [04/Dec/2024 15:46:32] "POST /api/audio HTTP/1.1" 200 -

@@ -1,0 +1,11 @@
+
+API TEXT OLLAMA3.2
+
+curl -X POST http://192.168.1.84:5000/api/text -H "Content-Type: application/json" -d '{"data": "hows the weather", "prompt": "you are micky mouse"}'
+
+
+--------------------
+
+WHISPER
+
+curl -X POST -F "file=@/home/ved/Code/audio_segment_1.wav" http://192.168.1.84:5000/api/audio
