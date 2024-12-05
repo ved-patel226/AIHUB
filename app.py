@@ -3,8 +3,13 @@ from flask import Flask, request, jsonify
 from hub.setup.coloredprint import red, green, blue
 from hub.setup.ip import get_local_ip
 from hub.ai.whisper.whisperOPENAI import WhisperChat
-from hub.ai.ollama.ollama3META import OllamaChat
+from hub.ai.qwen.qwen2_5 import QWENAPI
+import os
+import glob
 
+log_files = glob.glob("log/*")
+for file in log_files:
+    os.remove(file)
 
 logging.basicConfig(
     filename="log/app.log",
@@ -41,10 +46,8 @@ def api_text():
 
     api_logger.info(f"Received data: {data}, prompt: {prompt}")
 
-    # ollama = OllamaChat()
-
-    ollama = OllamaChat(prompt=prompt)
-    data = ollama.get(data)
+    qwen = QWENAPI(prompt=prompt)
+    data = qwen.get(data)
 
     return jsonify(data)
 
